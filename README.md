@@ -9,7 +9,6 @@
 - 👀 I’m interested in Coding And Problem Solving
 - 💞️ I’m looking to collaborate on development
 - 🌱 I’m currently learning Data Science and DSA
-- 👨‍💻 All of my projects are available at [https://portfolio-nine-bice-32.vercel.app/](https://portfolio-nine-bice-32.vercel.app/)
 - 📝 I write on [https://medium.com/@divi09](https://medium.com/@divi09)
 - 📫 How to reach me **bharti.divya2024@gmail.com**
 
